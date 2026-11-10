@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+
+# 本地包路径 shim（按 README 步骤自行创建）
+.pythonpath/
+
+# 训练产物（模型权重较大，不入库）
+checkpoints/
+logs/
+*.pkl
+*.zip
+
+# 系统文件
+.DS_Store
+.Trash/
