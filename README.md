@@ -13,6 +13,8 @@
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux-lightgrey)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-red)
 
+<img src="doc/pic/img_v3_0217a_a0d94252-4c9b-46cf-bd01-d1a180baeb9g.gif" width="720" alt="X-Robot 人形机器人演示">
+
 </div>
 
 ---
